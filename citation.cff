@@ -1,0 +1,9 @@
+preferred-citation:
+  type: techreport
+  institution: Sustainable Mobility and Safety Research Group, Monash University
+  authors:
+  - family-names: "Sustainable Mobility and Safety Research Group, Monash University"
+    given-names: ""
+  title: "Highway/Road classification using OpenStreetMap"
+  year: 2024
+  url: "https://github.com/SustainableMobility/highway-classification-osm"
