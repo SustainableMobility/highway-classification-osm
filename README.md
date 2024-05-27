@@ -24,3 +24,18 @@ For any queries, please contact Dr Debjit Bhowmick (Research Fellow, debjit.bhow
 ## Citation
 If you are using this classification system for your work, we strongly recommend citing this repository using the 'Cite this repository' feature on GitHub (found on the right side when you open the repo). 
 Alternatively, you may use the guidelines provided [here](https://www.ilovephd.com/how-do-you-cite-a-github-repository/).
+
+### BibTeX
+```
+@misc{Sustainable_Mobility_and_Safety_Research_Group_Highway_Road_classification_using_2024,
+author = {Sustainable Mobility and Safety Research Group, Monash University},
+title = {{Highway/Road classification using OpenStreetMap}},
+url = {https://github.com/SustainableMobility/highway-classification-osm},
+year = {2024}
+}
+```
+>
+### APA
+```
+Sustainable Mobility and Safety Research Group, Monash University. (2024). Highway/Road classification using OpenStreetMap. https://github.com/SustainableMobility/highway-classification-osm
+```
