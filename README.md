@@ -37,12 +37,12 @@ Alternatively, you may use the guidelines provided [here](https://www.ilovephd.c
 author = {Sustainable Mobility and Safety Research Group, Monash University},
 title = {{Highway/Road classification using OpenStreetMap}},
 url = {https://github.com/SustainableMobility/highway-classification-osm},
-doi = {https://doi.org/10.6084/m9.figshare.27059983.v1},
+doi = {https://doi.org/10.6084/m9.figshare.27059980.v1},
 year = {2024}
 }
 ```
 >
 ### APA
 ```
-Sustainable Mobility and Safety Research Group, Monash University. (2024). Highway/Road classification using OpenStreetMap. https://github.com/SustainableMobility/highway-classification-osm. doi: https://doi.org/10.6084/m9.figshare.27059983.v1
+Sustainable Mobility and Safety Research Group, Monash University. (2024). Highway/Road classification using OpenStreetMap. https://github.com/SustainableMobility/highway-classification-osm. doi: [https://doi.org/10.6084/m9.figshare.27059983.v1](https://doi.org/10.6084/m9.figshare.27059980.v1)
 ```
