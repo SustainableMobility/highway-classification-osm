@@ -44,5 +44,5 @@ year = {2024}
 >
 ### APA
 ```
-Sustainable Mobility and Safety Research Group, Monash University. (2024). Highway/Road classification using OpenStreetMap. https://github.com/SustainableMobility/highway-classification-osm
+Sustainable Mobility and Safety Research Group, Monash University. (2024). Highway/Road classification using OpenStreetMap. https://github.com/SustainableMobility/highway-classification-osm. doi: https://doi.org/10.6084/m9.figshare.27059983.v1
 ```
