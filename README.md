@@ -1,5 +1,11 @@
 # highway-classification-osm
-Python code to classify roads and paths based on highway tags present in OpenStreetMap
+Python code to classify roads and paths based on highway tags present in OpenStreetMap.
+
+## Classes
+- **Arterial roads** included high-capacity roads built for faster motor vehicle travel with low accessibility. 
+- **Collector roads** included roads that provide higher access than arterials while compromising on mobility, and connected arterial and local roads. 
+- **Local roads** comprised the majority of the network, with the highest access and lowest mobility, mostly built around residential land-use. 
+- **Paths and crossings** included all off-road paths (dedicated and shared bike paths) and road crossings.
 
 ## Technology
   * Python
