@@ -37,6 +37,7 @@ Alternatively, you may use the guidelines provided [here](https://www.ilovephd.c
 author = {Sustainable Mobility and Safety Research Group, Monash University},
 title = {{Highway/Road classification using OpenStreetMap}},
 url = {https://github.com/SustainableMobility/highway-classification-osm},
+doi = {https://doi.org/10.6084/m9.figshare.27059983.v1},
 year = {2024}
 }
 ```
